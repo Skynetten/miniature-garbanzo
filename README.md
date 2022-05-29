@@ -15,6 +15,6 @@ This management system allows you to add, edit, delete data from the database. A
 
 Some Screenshots :
 
-![screen-cap-1]("/src/Screenshots/Screenshot 2022-04-14 223651.png")
+![Alt text]("/src/Screenshots/Screenshot 2022-04-14 223651.png?raw=true")
 
-![screen-cap-2]("/src/Screenshots/Screenshot 2022-04-14 223702.png")
+![Alt text]("/src/Screenshots/Screenshot 2022-04-14 223702.png?raw=true")
