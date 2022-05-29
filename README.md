@@ -1,20 +1,22 @@
-#AI B2B Management System
+# AI B2B Management System
 
 This management system allows you to add, edit, delete data from the database. Also providing the ability to search, sort and submit for date prediction of the submitted data.
 
-##Description of Project:
+## Description of Project:
 
-###Front End : 
+### Front End : 
 > React : Material UI, Axios, bootstrap
 
-###Controller :
+### Controller :
 > Java : JDBC, Servlet
 
-###Back End :
+### Back End :
 > MySql 
 
 Some Screenshots :
 
-![screen-cap-1]("./src/Screenshots/Screenshot 2022-04-14 223651.png")
-''
-![screen-cap-2]("./src/Screenshots/Screenshot 2022-04-14 223702.png")
+<img src="./Screenshots/223651.png" width="128"/>
+
+<img src="./Screenshots/223702.png" width="128"/>
+<img src="./Screenshots/223720.png" width="128"/>
+<img src="./Screenshots/223858.png" width="128"/>
