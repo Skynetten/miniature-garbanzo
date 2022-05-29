@@ -1,0 +1,20 @@
+#form-input{
+    margin-bottom: 1.25rem;
+}
+
+.overlay-heading{
+    padding-bottom: 1rem;
+    font-weight: 400;
+}
+
+.overlay{
+    z-index: 5;
+    left: 0;
+    padding: 20px;
+    width: 90%;
+    margin: 0 auto;
+    border-radius: 5px;
+    position: relative;
+    background-color: #274153;
+    transform: translateY(-150%);
+}

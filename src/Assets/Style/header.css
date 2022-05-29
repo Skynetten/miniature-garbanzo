@@ -1,0 +1,22 @@
+p{
+    font-size: 1.25rem;
+    font-weight: 600;
+    padding-bottom: 5px;
+    margin-bottom: 0rem !important;
+}
+
+.header-div{
+    background-color: #274153;
+}
+
+.hrc-image{
+    filter: invert(96%) sepia(100%) saturate(0%) hue-rotate(180deg) brightness(200%) contrast(110%);
+}
+
+.navbar-brand{
+    text-align: center;
+}
+
+span{
+    font-size: 1.75rem;
+}
