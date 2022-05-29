@@ -16,7 +16,7 @@ This management system allows you to add, edit, delete data from the database. A
 Some Screenshots :
 
 
-<img src="./Screenshots/223651.png" width="128"/>
+<img src="/src/Screenshots/223651.png" width="128"/>
 <img src="./Screenshots/223702.png" width="128"/>
 <img src="./Screenshots/223720.png" width="128"/>
 <img src="./Screenshots/223858.png" width="128"/>
